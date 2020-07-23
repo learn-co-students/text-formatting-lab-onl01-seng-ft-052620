@@ -32,10 +32,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
   pry
   rspec
   w3c_validators
 
 BUNDLED WITH
-   1.16.1
+   2.1.4
